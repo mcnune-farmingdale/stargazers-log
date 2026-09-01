@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "name": "microsoft/vscode",
+      "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+      "language": "TypeScript",
+      "stargazers_count": 221000,
+      "url": "https://github.com/microsoft/vscode",
+      "starred_at": "2024-11-18"
+    },
+    {
+      "name": "vercel/next.js",
+      "description": "The React framework for the web.",
+      "language": "JavaScript",
+      "stargazers_count": 126000,
+      "url": "https://github.com/vercel/next.js",
+      "starred_at": "2025-01-07"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "CSS",
+      "stargazers_count": 89000,
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "starred_at": "2025-02-02"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "description": "Learn to code for free and build projects for nonprofits.",
+      "language": "JavaScript",
+      "stargazers_count": 410000,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "starred_at": "2024-09-29"
+    }
+  ]
+}
